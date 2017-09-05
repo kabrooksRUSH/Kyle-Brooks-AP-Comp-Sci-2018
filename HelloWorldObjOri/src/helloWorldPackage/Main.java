@@ -1,10 +1,12 @@
 package helloWorldPackage;
 
+
+
 public class Main {
 	public static void main(String[] args){
-		//HelloWorldKyle Hello = new HelloWorldKyle("Hello World Kyle");
-		//System.out.print(Hello.greet());	
-		HelloWorldKyle Marlena = new HelloWorldKyle("Marlena");
-		System.out.print(Marlena.greet());
+		HelloWorldKyle Kyle = new HelloWorldKyle("Hello World Kyle");
+		Window Screen1 = new Window("Test", 1500, 1500);		
+		
+		System.out.print(Kyle.greet());
 	}
 }
