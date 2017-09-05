@@ -1,4 +1,4 @@
-package helloWorldPackage;
+package helloGraphics;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -22,4 +22,6 @@ import javax.swing.JComponent;
 			graph2.draw(ellipse);
 			graph2.draw(line);
 	}
+		
 }
+

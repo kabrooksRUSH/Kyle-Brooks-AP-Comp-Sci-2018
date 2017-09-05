@@ -39,3 +39,7 @@
 .metadata/.mylyn/tasks.xml.zip
 *.xmi
 .metadata/.mylyn/tasks.xml.zip
+*.snap
+*.resources
+*.snap
+*.zip
