@@ -42,4 +42,4 @@
 *.snap
 *.resources
 *.snap
-*.zip
+*.zip*.metadata/.recommenders/
