@@ -12,7 +12,12 @@ public class Main {
 		pizza1.calcCost();*/
 		//////////////////////////////////////////////^^Pizza Cost^^////////////////////////////////////
 
-		CollegeCalculator calc1 = new CollegeCalculator();
+		/*CollegeCalculator calc1 = new CollegeCalculator();
+		calc1.setCollegeCosts();
+		calc1.calcCost();*/
+		//////////////////////////////////////////////^^College Cost^^////////////////////////////////////
+
+		Energy energyCalc1 = new Energy();
 		
 	}
 }
