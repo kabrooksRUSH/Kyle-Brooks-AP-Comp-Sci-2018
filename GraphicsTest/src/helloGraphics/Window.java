@@ -11,5 +11,10 @@ public class Window extends JFrame {
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.add(new Drawing(), BorderLayout.CENTER);
 		this.setVisible(true);
+		
+		gui();
+	}
+	public void gui(){
+		
 	}
 }
