@@ -2,12 +2,12 @@ package chapter3ExercisesPackage;
 
 import java.util.Scanner;
 
-public class PizzaCost {
+public class PizzaCost_2 {
 	
 	double cost;
 	double diameter;
 	
-	public PizzaCost(){
+	public PizzaCost_2(){
 		System.out.print("Enter diameter of pizza in inches: ");
 	}
 	public void calcCost(){

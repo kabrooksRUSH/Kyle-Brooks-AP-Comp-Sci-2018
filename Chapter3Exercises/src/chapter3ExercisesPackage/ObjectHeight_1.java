@@ -2,12 +2,12 @@ package chapter3ExercisesPackage;
 
 import java.util.Scanner;
 
-public class ObjectHeight {
+public class ObjectHeight_1 {
 	double height;
 	double time;
 	
 	
-	public ObjectHeight(){	
+	public ObjectHeight_1(){	
 		System.out.print("Input a time less than 4.5 seconds: " );
 	}
 	

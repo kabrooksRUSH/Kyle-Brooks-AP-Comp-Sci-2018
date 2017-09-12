@@ -2,7 +2,7 @@ package chapter3ExercisesPackage;
 
 import java.util.Scanner;
 
-public class CollegeCalculator {
+public class CollegeCalculator_3 {
 	
 	double booksC;
 	double housingC;
@@ -13,7 +13,7 @@ public class CollegeCalculator {
 	
 	double totalCost;
 	
-	public CollegeCalculator(){
+	public CollegeCalculator_3(){
 		System.out.print("Hello! Welcome to the college cost calculator!");
 	}
 	
