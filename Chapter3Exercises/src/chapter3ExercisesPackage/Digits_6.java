@@ -2,7 +2,7 @@ package chapter3ExercisesPackage;
 
 import java.util.Scanner;
 
-public class DivAndMod_6 {
+public class Digits_6 {
 	
 	int hRemain;
 	int tRemain;
@@ -10,7 +10,7 @@ public class DivAndMod_6 {
 	
 	int dividend;
 	
-	public DivAndMod_6(){
+	public Digits_6(){
 		System.out.print("Enter a three digit number: ");
 	}
 	
