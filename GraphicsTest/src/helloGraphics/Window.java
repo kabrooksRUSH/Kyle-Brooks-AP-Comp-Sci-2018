@@ -28,9 +28,9 @@ public class Window extends JFrame {
 		
 		mainPanel.setBackground(Color.MAGENTA);
 		
-		mainPanel.add(b1);
+	/*	mainPanel.add(b1);
 		mainPanel.add(l1);
 		
-		this.add(mainPanel);
+		this.add(mainPanel);*/
 	}
 }

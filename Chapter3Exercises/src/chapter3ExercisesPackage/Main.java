@@ -37,6 +37,47 @@ public class Main {
 		divmod1.setIntegers();
 		divmod1.calculateDivAndMod();*/
 		//////////////////////////////////////////////^^DivAndMod^^////////////////////////////////////
+		
+		/*TimeConversion_8 convert1 = new TimeConversion_8();
+		convert1.setTime();
+		convert1.calcTime();*/
+		//////////////////////////////////////////////^^TimeConversion^^////////////////////////////////////
+		
+		/*Sleep_9 sleep1 = new Sleep_9();
+		sleep1.getBirthDate();
+		sleep1.getTodayDate();
+		sleep1.calcSleep();*/
+ 		//////////////////////////////////////////////^^Sleep^^////////////////////////////////////
+		
+		/*Order_10 order1 = new Order_10();
+		order1.getBurgers();
+		order1.getFries();
+		order1.getPop();
+		order1.calcCost();
+		order1.getTended();
+		order1.calcChange();*/
+ 		//////////////////////////////////////////////^^Order^^////////////////////////////////////
 
+		/*Project_11 project1 = new Project_11();
+		project1.getTimes();
+		project1.calcPercent();*/
+ 		//////////////////////////////////////////////^^Project^^////////////////////////////////////
+	
+		/*Spending_12 spending1 = new Spending_12();
+		spending1.getCosts();
+		spending1.calcPercent();*/
+ 		//////////////////////////////////////////////^^Spending^^////////////////////////////////////
+
+		/*SimpleInterest_13 interest1 = new SimpleInterest_13();
+		interest1.getValsA();
+		interest1.calcEndValA();
+		interest1.getValsP();
+		interest1.calcEndValP();*/
+ 		//////////////////////////////////////////////^^SimpleInterst^^////////////////////////////////////
+		
+		/*Election_14 election1 = new Election_14();
+		election1.getElectionResult();
+		election1.calcElectionResults();*/
+ 		//////////////////////////////////////////////^^Election^^////////////////////////////////////
 	}
 }

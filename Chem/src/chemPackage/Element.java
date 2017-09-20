@@ -1,0 +1,117 @@
+package chemPackage;
+
+public class Element {	
+	private String ElementName;
+
+	public Element(String Name){
+		Name = ElementName;
+	}
+	
+	public String getElemName(){
+		return ElementName;
+	}
+	
+	Element H = new Element("Hydrogen");
+	Element He = new Element("Helium");
+	Element Li = new Element("Lithium");
+	Element Be = new Element("Beryllium");
+	Element B = new Element("Boron");
+	Element C = new Element("Carbon");
+	Element N = new Element("Nitrogen");
+	Element O = new Element("Oxygen");
+	Element F = new Element("Fluorine");
+	Element Ne = new Element("Neon");
+	Element Na = new Element("Sodium");
+	Element Mg = new Element("Magnesium");
+	Element Al = new Element("Aluminium");
+	Element Si = new Element("Silicon");
+	Element P = new Element("Phosphorus");
+	Element S = new Element("Sulfur");
+	Element Cl = new Element("Chlorine");
+	Element Ar = new Element("Argon");
+	Element K = new Element("Potassium");
+	Element Ca = new Element("Calcium");
+	Element Sc = new Element("Scandium");
+	Element Ti = new Element("Titanium");
+	Element V = new Element("Vandaium");
+	Element Cr = new Element("Chromium");
+	Element Mn = new Element("Manganese");
+	Element Fe = new Element("Iron");
+	Element Co = new Element("Cobalt");
+	Element Ni = new Element("Nickel");
+	Element Cu = new Element("Copper");
+	Element Zn = new Element("Zing");
+	Element Ga = new Element("Gallium");
+	Element Ge = new Element("Germanium");
+	Element As = new Element("Arsenic");
+	Element Se = new Element("Selenium");
+	Element Br = new Element("Bromine");
+	Element Kr = new Element("Krypton");
+	Element Rb = new Element("Rubidium");
+	Element Sr = new Element("Strontium");
+	Element Y = new Element("Yttrium");
+	Element Zr = new Element("Zirconium");
+	Element Nb = new Element("Niobium");
+	Element Mo = new Element("Molybdenum");
+	Element Tc = new Element("Technetium");
+	Element Ru = new Element("Ruthenium");
+	Element Rh = new Element("Rhodium");
+	Element Pd = new Element("Palladium");
+	Element Ag = new Element("Silber");
+	Element Cd = new Element("Cadmium");
+	Element In = new Element("Indium");
+	Element Sn = new Element("Tin");
+	Element Sb = new Element("Antimony");
+	Element Te = new Element("Tellurium");
+	Element I = new Element("Iodine");
+	Element Xe = new Element("Xenon");
+	Element Cs = new Element("Cesium");
+	Element Ba = new Element("Barium");
+	Element Hf = new Element("Hafnium");
+	Element Ta = new Element("Tantalum");
+	Element W = new Element("Tungsten");
+	Element Re = new Element("Rhenium");
+	Element Os = new Element("Osmium");
+	Element Ir = new Element("Iridium");
+	Element Pt = new Element("Platinum");
+	Element Au = new Element("Gold");
+	Element Hg = new Element("Mercury");
+	Element Tl = new Element("Thallium");
+	Element Pb = new Element("Lead");
+	Element Bi = new Element("Bismuth");
+	Element Po = new Element("Polonium");
+	Element At = new Element("Astatine");
+	Element Rn = new Element("Radon");
+	Element Fr = new Element("Francium");
+	Element Ra = new Element("Radium");
+	Element Ac = new Element("Actinium");
+	Element Th = new Element("Thorium");
+	Element Pa = new Element("Protactinium");
+	Element U = new Element("Uranium");
+	Element Np = new Element("Neptunium");
+	Element Pu = new Element("Plutonium");
+	Element Am = new Element("Americium");
+	Element Cm = new Element("Curium");
+	Element Bk = new Element("Berkelium");
+	Element Cf = new Element("Californium");
+	Element Es = new Element("Einsteinium");
+	Element Fm = new Element("Fermium");
+	Element Md = new Element("Mendelevium");
+	Element No = new Element("Nobelium");
+	Element Lr = new Element("Lawrencium");
+	Element Rf = new Element("Rutherfordium");
+	Element Db = new Element("Dubnium");
+	Element Sg = new Element("Seaborgium");
+	Element Bh = new Element("Bohrium");
+	Element Hs = new Element("Hassium");
+	Element Mt = new Element("Meitnerium");
+	Element Ds = new Element("Darmstadtium");
+	Element Rg = new Element("Roentgenium");
+	Element Uub = new Element("Ununbium");
+	Element Uut = new Element("Ununtrium");
+	Element Uuq = new Element("Ununquadium");
+	Element Uup = new Element("Ununpentium");
+	Element Uuh = new Element("Ununhexium");
+	Element Uus = new Element("Ununseptium");
+	Element Uuo = new Element("Ununoctium");
+}
