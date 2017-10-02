@@ -38,21 +38,32 @@ public class Main {
 					break;
 					
 			case 6: MathTutor_6 tutor1 = new MathTutor_6();
-					tutor1.genProblem();
-					tutor1.getInput();
-					tutor1.checkAnswer();
+					tutor1.gameRun();
 					break;
 					
 			case 7: EquivalentFractions_7 equivFrac1 = new EquivalentFractions_7();
-					equivFrac1
+//					equivFrac1
+					break;
 
 			case 9: GuessingGame_9 game1 = new GuessingGame_9();
 					game1.genNumber();
 					game1.guessNumber();
 					break;
-						
-				
-				
+					
+			case 10: Volumes_10 volumes1 = new Volumes_10();
+					 volumes1.getShape();
+					 volumes1.calcVolume();	
+					 break;
+					 
+			case 16: TrigFunctions_16 trig1 = new TrigFunctions_16();
+					 trig1.getAngle();
+					 trig1.calcFuncts();
+					 break;
+					 
+			case 17: InverseTrigFunctions_17 inverseTrig1 = new InverseTrigFunctions_17();
+			 		 inverseTrig1.getAngle();
+			 		 inverseTrig1.calcFuncts();
+			 		 break;
 			}
 		}
 }
