@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <flex version="4.7.0" build="354156" minimumSupportedVersion="3.0.0"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354156"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/grumpycarrot/ane/playgameservices/PlayGamesServices" mod="1456330195599">
+                <def id="com.grumpycarrot.ane.playgameservices:PlayGamesServices"/>
+                <dep id="Array" type="e"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Error" type="e"/>
+                <dep id="Function" type="s"/>
+                <dep id="JSON" type="e"/>
+                <dep id="Object" type="e"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices:PlayGamesServicesEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices:Player" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices:PlayerStats" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.achievements:Achievement" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.achievements:Achievements" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.ads:AdmobBanner" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.ads:AdmobEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.ads:AdmobInterstitial" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:EventsQuests" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:EventsQuestsEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:GameEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:Quest" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboard" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:LeaderboardScore" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboards" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:Invitation" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedMatch" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedMultiplayer" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGame" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGameEvent" type="e"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGames" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.utils:Utils" type="s"/>
+                <dep id="flash.events:Event" type="e"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.events:StatusEvent" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+                <dep id="trace" type="e"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/PlayGamesServicesEvent" mod="1456329940389">
+                <def id="com.grumpycarrot.ane.playgameservices:PlayGamesServicesEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices:PlayerStats" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.achievements:Achievement" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboard" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:LeaderboardScore" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/Player" mod="1456329940434">
+                <def id="com.grumpycarrot.ane.playgameservices:Player"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/PlayerStats" mod="1456329940415">
+                <def id="com.grumpycarrot.ane.playgameservices:PlayerStats"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="int" type="s"/>
+                <dep id="parseFloat" type="e"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/achievements/Achievement" mod="1456330004789">
+                <def id="com.grumpycarrot.ane.playgameservices.achievements:Achievement"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="int" type="s"/>
+                <dep id="trace" type="e"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/achievements/Achievements" mod="1456330004817">
+                <def id="com.grumpycarrot.ane.playgameservices.achievements:Achievements"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/ads/AdmobBanner" mod="1456768597362">
+                <def id="com.grumpycarrot.ane.playgameservices.ads:AdmobBanner"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/ads/AdmobEvent" mod="1456330004752">
+                <def id="com.grumpycarrot.ane.playgameservices.ads:AdmobEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/ads/AdmobInterstitial" mod="1456330004772">
+                <def id="com.grumpycarrot.ane.playgameservices.ads:AdmobInterstitial"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/eventsquests/EventsQuests" mod="1456766414102">
+                <def id="com.grumpycarrot.ane.playgameservices.eventsquests:EventsQuests"/>
+                <dep id="Array" type="s"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/eventsquests/EventsQuestsEvent" mod="1456329988944">
+                <def id="com.grumpycarrot.ane.playgameservices.eventsquests:EventsQuestsEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:GameEvent" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:Quest" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/eventsquests/GameEvent" mod="1456329989020">
+                <def id="com.grumpycarrot.ane.playgameservices.eventsquests:GameEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/eventsquests/Milestone" mod="1456329989042">
+                <def id="com.grumpycarrot.ane.playgameservices.eventsquests:Milestone"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/eventsquests/Quest" mod="1456329989121">
+                <def id="com.grumpycarrot.ane.playgameservices.eventsquests:Quest"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.eventsquests:Milestone" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/leaderboards/Leaderboard" mod="1456329988850">
+                <def id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboard"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:LeaderboardScore" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/leaderboards/LeaderboardScore" mod="1456329988895">
+                <def id="com.grumpycarrot.ane.playgameservices.leaderboards:LeaderboardScore"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices:Player" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/leaderboards/Leaderboards" mod="1456329988873">
+                <def id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboards"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.leaderboards:Leaderboard" type="e"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/multiplayer/Invitation" mod="1456329963052">
+                <def id="com.grumpycarrot.ane.playgameservices.multiplayer:Invitation"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:Participant" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/multiplayer/Participant" mod="1456329963072">
+                <def id="com.grumpycarrot.ane.playgameservices.multiplayer:Participant"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/multiplayer/TurnBasedEvent" mod="1456329963094">
+                <def id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:Invitation" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedMatch" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/multiplayer/TurnBasedMatch" mod="1456329963124">
+                <def id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedMatch"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.multiplayer:Participant" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/multiplayer/TurnBasedMultiplayer" mod="1456332439296">
+                <def id="com.grumpycarrot.ane.playgameservices.multiplayer:TurnBasedMultiplayer"/>
+                <dep id="Array" type="s"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/savedgames/SavedGame" mod="1456329940471">
+                <def id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGame"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/savedgames/SavedGameEvent" mod="1456765062557">
+                <def id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGameEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGame" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/savedgames/SavedGames" mod="1456329940572">
+                <def id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGames"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="com.grumpycarrot.ane.playgameservices.savedgames:SavedGame" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/grumpycarrot/ane/playgameservices/utils/Utils" mod="1456329940455">
+                <def id="com.grumpycarrot.ane.playgameservices.utils:Utils"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.display:BitmapData" type="e"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="1a5a03f1be9ebded083e395f5e96a4aedc1c1063e296f4ae924e19aba18f3d63"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>

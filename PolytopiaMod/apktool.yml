@@ -1,0 +1,30 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: POLYTOPIA-MOD-APK-vNEW_WORLD.apk
+compressionType: false
+doNotCompress:
+- save
+- assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayserviceslibrary/library.swf
+- assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayserviceslibrary/META-INF/ANE/Android-ARM/library.swf
+- assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameservices/library.swf
+- assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameservices/META-INF/ANE/Android-ARM/library.swf
+- assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/library.swf
+- assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/META-INF/ANE/Android-ARM/library.swf
+- res/raw/debuginfo
+- res/raw/rgba8888
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '25'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '1009006'
+  versionName: New World

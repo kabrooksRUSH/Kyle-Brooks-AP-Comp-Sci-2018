@@ -1,0 +1,1599 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/sound/1/score_1.mp3
+SHA1-Digest: XfOsij7sA2pa8HpC81ap2kDOl7c=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png
+SHA1-Digest: peJ06bkaZCp3fYmEeCvdStSOjA0=
+
+Name: assets/sound/1/tech_discover.mp3
+SHA1-Digest: j0VIG4uLXQ5j+IQTd32qYzJ8xKs=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: fPujluvRBLTqpyOEguVI/JPWQc4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ms-rMY/common_strings.xml
+SHA1-Digest: eq1sVGVAllHfzgoL2afNv2iStzY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ja/common_strings.xml
+SHA1-Digest: gNHVcFXY2TI/k1Tp+o4yRl+zAsI=
+
+Name: assets/textures/water_route.png
+SHA1-Digest: m37oTLF35PbeZ0f2hEgTWjIHK34=
+
+Name: assets/sound/1/hit_2.mp3
+SHA1-Digest: ZWFe4v791rbLMP8jkEZ9UPOiW6Q=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: /F1a1ImN4W5fIWkZ0ZTPNS4J79E=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: SwsyOiYwXy31sKXdDx94HpvBUUw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ur-rPK/common_strings.xml
+SHA1-Digest: t+66MAVZcgR9iNskdskQvyeolzQ=
+
+Name: assets/sound/1/move.mp3
+SHA1-Digest: AyNiSbz4CLRGF1VzlnEpdDufZtI=
+
+Name: assets/sound/1/music/citysong_ai-mo.mp3
+SHA1-Digest: F765gfqjcthUScRJjrBStVdI8ME=
+
+Name: assets/sound/1/silence.mp3
+SHA1-Digest: dw0FlyZYXhI/KM1WexcWV7iSS18=
+
+Name: assets/sound/1/music/endscreen_loose.mp3
+SHA1-Digest: NS/4ie/nxyURtUTOvZcwt9xB/Dg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: myjgQslBUSgM4MMgjMcChM5+5us=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/extension.xml
+SHA1-Digest: 342PaM9mJJs8bWXhQRWO6NSUz0w=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: QISqE36xyDAHsi8ckHdLhkX6xgo=
+
+Name: assets/sound/1/music/endscreen_win.mp3
+SHA1-Digest: dCe3OEOPQXBsOW40gDn+q+/NL0A=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-zh-rCN/common_strings.xml
+SHA1-Digest: InH9WMlHmlETinoN7S4PKFezMlI=
+
+Name: res/drawable-hdpi-v4/home.png
+SHA1-Digest: A+rx8jiuPWqssDz0rtsU3PWl3CA=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DlSdUluqAd3gPUdga8dDDY6Rzpw=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: J8XOW3C04NQ1ZVJwbYEN3F9h/Bg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: WFA8vNO+X+qqDeuwFhqJNO2V2qM=
+
+Name: resources.arsc
+SHA1-Digest: Cw8PHZj/Y1NREKkxGjoakaXK+z4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services.jar
+SHA1-Digest: begc5u0BxmOAtRFoWDDHDZWYl+8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-hi/common_strings.xml
+SHA1-Digest: yMJ2qs++vkPpbo/1I4QgKJnx7cQ=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-pt-rBR/common_strings.xml
+SHA1-Digest: zGgfWhTCucrsbi0sOLSy+0cBSb0=
+
+Name: assets/sound/1/click_down.mp3
+SHA1-Digest: D2OZ21d703WyXdYa7d1moQqJrzo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-th/common_strings.xml
+SHA1-Digest: xDAUEEVqE40LmIc+oqL7Wl4B440=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: q98reLRtMu7+WGqH6ybxPvKS8VU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/admob_iap_style.xml
+SHA1-Digest: h0J+R/Gqqi/z9Etz/nIXsafZvS0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: 3HfwPsjLviH2l+Y6Y2gzjT6yxBM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/sound/1/grow_small.mp3
+SHA1-Digest: 6oqbcCIAb4nV/YX3a+i20iHx3LY=
+
+Name: assets/sound/1/click_up.mp3
+SHA1-Digest: hFdbTUVfCovAEJPsVRp61qnILnE=
+
+Name: assets/sound/1/score.mp3
+SHA1-Digest: VMnG5yRWhMRIR4dMCOV9rKHCZaY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameserv
+ ices/META-INF/ANE/extension.xml
+SHA1-Digest: HiZ2OTdy4vkxtjfwm4IKEdYxa5k=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/version.xml
+SHA1-Digest: Qte1wAIUq4Ev7oh5OwnvWrY5SqI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-te-rIN/common_strings.xml
+SHA1-Digest: 6qymtaU/6eGZrdfXxGM7+f7UOxk=
+
+Name: assets/sound/1/shrink.mp3
+SHA1-Digest: QR2/PBSFWLwfewtstSkz4VBKwNU=
+
+Name: assets/sound/1/paystar_2.mp3
+SHA1-Digest: msTsPpBBUsymnABo6UsnBs12Rt0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: assets/sound/1/nature/nature_5.mp3
+SHA1-Digest: xEQtfQl58763tAysK2ZO0to2U+I=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-tr/common_strings.xml
+SHA1-Digest: PZDxpG2srgMlQy+HT6z5WS0U8oY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-zh-rTW/common_strings.xml
+SHA1-Digest: agJlMZRQV0fGrCnwQqXppI4RigU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-mn-rMN/common_strings.xml
+SHA1-Digest: Nr/T4WnBKFvIJV1DZjDBzRjgKMw=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: S/s7JQeXkmeWFLss+0v+jgzFc5I=
+
+Name: assets/sound/1/hit_3.mp3
+SHA1-Digest: 8jORO2AZNDdpC2RILhgj++gCPg0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_disabled_focus_dark.9.png
+SHA1-Digest: 2j7Vuiyfh7JlDP0dHHhxXyU5NZw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: GrFJ022mMl0eagIkD4CzcApCQPo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 0RlGQa2Lvx6eBH4pCJKbyz833a4=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: cp6EzjLDVdzLOD69uttcA3OnzH8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: gsCO0Oj3JePZqyZqX+VXXo8xy6U=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_disabled_focus_light.9.png
+SHA1-Digest: 2j7Vuiyfh7JlDP0dHHhxXyU5NZw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-kk-rKZ/common_strings.xml
+SHA1-Digest: oNSEKTWp1N04fUI1YJlCnXxgYoE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-gl-rES/common_strings.xml
+SHA1-Digest: Nr9DBGoerKGto07+CiHeyi6KF6M=
+
+Name: assets/sound/1/music/citysong_hoodrick.mp3
+SHA1-Digest: iGA1ELeckU1hpubQ83S99Wbh4G0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_full_open_on_phone.png
+SHA1-Digest: 6fM++uMPxfqD016RY8ex5IRs6UI=
+
+Name: assets/sound/1/connect.mp3
+SHA1-Digest: xJX15ZmF+8REPvSEJBBdtyZVu6E=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameserv
+ ices/library.swf
+SHA1-Digest: /g2snVrvBIbtR0kfYh8kuh83cXI=
+
+Name: assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/c
+ atalog.xml
+SHA1-Digest: ViCozotms2nkcj1TeuJ6fk3Ae4o=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sq-rAL/common_strings.xml
+SHA1-Digest: ZepE6Yki0YRn1IeYk0YJJh9CKbI=
+
+Name: res/drawable-xhdpi-v4/ouya_icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: E9lwDWXskknWQQlgJXLYPOxXggk=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/admob_ads_attrs.xml
+SHA1-Digest: ahiZqMsoEcnaPCo8MH1V161oZZo=
+
+Name: assets/sound/1/move_polar.mp3
+SHA1-Digest: YSOHZlXdfvuHGNYt17ZLPwYaYUc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: RzEDPSBTzpy6rLYnQ6K8MUrxUe4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-gu-rIN/common_strings.xml
+SHA1-Digest: HOer04M2j45NhKbDIeES9fjDxeE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ta-rIN/common_strings.xml
+SHA1-Digest: +DQ+yGSW1xVUJH9r0excWp0NIUM=
+
+Name: assets/sound/1/sword.mp3
+SHA1-Digest: PpNKaKgxGCaJrvOiQJ6Mn5FcjWI=
+
+Name: assets/sound/1/paystar_3.mp3
+SHA1-Digest: 0Xvgu8LdXNA/mhihA01XP9pIFbE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-es/common_strings.xml
+SHA1-Digest: uhivTQ//2/gzzW3AA3sNus9JSR0=
+
+Name: assets/sound/1/gun.mp3
+SHA1-Digest: Ph6uN8kbEd/8G9FZlabGFRx/2nc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-km-rKH/common_strings.xml
+SHA1-Digest: 5fwgGnQ5I8EChiFN8Ig6EhvQRpc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-fa/common_strings.xml
+SHA1-Digest: u2hHFx3MVldjbzQCW467zJFg6hw=
+
+Name: assets/sound/1/nature/nature_4.mp3
+SHA1-Digest: ljMn0aryNXsXFysAcEAbxl4VZhw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-hu/common_strings.xml
+SHA1-Digest: 7Bhf91KKbmJ/da0uH+0UW/abApE=
+
+Name: assets/sound/1/kill.mp3
+SHA1-Digest: w2/psIseQprATHhdqADc7mkc4uM=
+
+Name: assets/sound/1/paystar_4.mp3
+SHA1-Digest: nB3ZezXUZUcGlpf2tM6oaDGGg0I=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: nS/YGBTJBcI9PrOt9CcZ/EpRbX4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-cs/common_strings.xml
+SHA1-Digest: 2diUOuqCL1Y5ODBXago1np8jpng=
+
+Name: res/raw/rgba8888
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/raw/debuginfo
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/sound/1/music/theme.mp3
+SHA1-Digest: F7O7ZIfubskZg0z3gOVASw+MdLw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: KJS1xE6TEe60nvWFRZ7OXkdi5JM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: REkt6n6+rBXO18tbvU0g8Vc0vzc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: WjmrLYmtmqrh4a3alntStw1fYXA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 3KHMV0iLeL/tNXisQsYoJdfzR3A=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: zKFUHRw7+y3/pwkXp+TXgl9eqpM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/sound/1/score_3.mp3
+SHA1-Digest: jDEKdxNf0opVoUIVP1Y/2OiQ4lY=
+
+Name: assets/sound/1/trident.mp3
+SHA1-Digest: W8hjvaHg4c3owVXRUTiIwg6F0Mg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: lfUfNgyIZ0EuyAKT9jpqicuQjQA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CvDVAy9X2ZDANtc00HyaKEuxV2w=
+
+Name: assets/sound/1/unit_upgrade.mp3
+SHA1-Digest: x1kOs05t+tVJQB+uBrLVpPBmc14=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: Tv5w5/LchGvun/DE3cEpEMnhS2k=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: opuI2j4dK3ep5jNT3z3C/vtm1HA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-am/common_strings.xml
+SHA1-Digest: bo5q9SmU2jFFGFTZNzULdYTxW8g=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sr/common_strings.xml
+SHA1-Digest: WcCw9NGRicLoJkHtssTQym/ipfY=
+
+Name: assets/sound/1/cloud_3.mp3
+SHA1-Digest: B0OItluzFwiJMS/i46qmLeU061U=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: Oj3xldM7O3DcsI1pzScRSi0CBA4=
+
+Name: assets/sound/1/nature/nature_3.mp3
+SHA1-Digest: 26GJsLXua+Fb+i3OnQXl3tGu6NA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-vi/common_strings.xml
+SHA1-Digest: Zdcf2y9qZcHYX2nirXtMGWpnpUo=
+
+Name: assets/sound/1/nature/nature_12.mp3
+SHA1-Digest: k+yTiDV6s345u1lIWsFOrlQMaH4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-fr-rCA/common_strings.xml
+SHA1-Digest: apq8gIwVGmCI2gilrubPaqzITm8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-in/common_strings.xml
+SHA1-Digest: Io+JahHe04UpU04fVnu936LiYZw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-it/common_strings.xml
+SHA1-Digest: lL9YYn7rSwSBDRI+r0fVQCD/Uwc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/common_attrs.xml
+SHA1-Digest: KFcwfV7YI9Z4FC2MxeA98wX6mpo=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: gVj7fXO0CkvMpghIsw4y6h6vn8Y=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 88wSOovGJGIGZDs3x5psQtqtql0=
+
+Name: assets/sound/1/grow.mp3
+SHA1-Digest: W/SHH1ber3goFMuT7NikMExiIH4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_disabled_focus_dark.9.png
+SHA1-Digest: F4zu7VALWxsTNPCALmKdFkT0Pk8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: assets/sound/1/music/citysong_zebasi.mp3
+SHA1-Digest: S4qg5alk75agWZmmxlJN6ySPA2Y=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/color
+ /common_signin_btn_text_light.xml
+SHA1-Digest: weX80oKZhoY/ZHJ0qoFQtdKSrqI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_full_open_on_phone.png
+SHA1-Digest: 6fM++uMPxfqD016RY8ex5IRs6UI=
+
+Name: assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/M
+ ETA-INF/ANE/extension.xml
+SHA1-Digest: vC00Gd4YzmMBrS00Ls1nzT/LRQo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: tKBPu8tVy7r5VHtLTlb/takTFqc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ky-rKG/common_strings.xml
+SHA1-Digest: bYBMiMgRdB+EZP9Q2qCDLGirMPU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-eu-rES/common_strings.xml
+SHA1-Digest: X9H9ZZ/eauejvBwB8aS606txocg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble/common_signin_btn_text_dark.xml
+SHA1-Digest: GXrXWJUPbm4jeAEM73LJZ5Uhe0U=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: assets/sound/1/heal.mp3
+SHA1-Digest: h+8L/j6qhaxdogSFdkpiy+O4cVw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-mr-rIN/common_strings.xml
+SHA1-Digest: sy7LsbFIhDnnXe4dYD2oxXkp+NE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png
+SHA1-Digest: csJ0cXA8eWwjMvERW6MyDMr1eaU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: tARhYTM7pMWAsJih/VCtdWcO8/c=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: nANfJreZj8IRns9AUf6IHMlN50E=
+
+Name: assets/sound/1/hit_1.mp3
+SHA1-Digest: EJRxEnnURdqPMonkm99BrgJmj3Q=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: UXOnN+JS0J7SEV042VJm7q9qmLQ=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: oNV1XCaOpzWB4QnZvx4vAoo/Dbg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+SHA1-Digest: csJ0cXA8eWwjMvERW6MyDMr1eaU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-pt-rPT/common_strings.xml
+SHA1-Digest: O9j2qsBnWMvyQeN6U9YXuxdebTs=
+
+Name: assets/sound/1/music/citysong_oumaji.mp3
+SHA1-Digest: +jM0LZ5nJCVmtuEY09j5svwWSzY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: 6M7PGFD6lYm7OpfcZLrY33GzmM4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: R9W26IsnEjC7nDIHV5lzOxOr0IE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ro/common_strings.xml
+SHA1-Digest: yLy+HidRVLlgluIoHJOHkuNXN8o=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-es-rUS/common_strings.xml
+SHA1-Digest: k9Plz16zE9ah+9UJfvOV2QuC8zc=
+
+Name: assets/sound/1/score_2.mp3
+SHA1-Digest: P3MkKoNcJRU8VOqMnMu5ogyaJfI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-en-rAU/common_strings.xml
+SHA1-Digest: yFDtAUR+mDBPg78LDRGimXTYqDU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-is-rIS/common_strings.xml
+SHA1-Digest: x/4Jr0NdXSN9EsYZ3aTzREPPQQY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: Dyy1RbP5T3CjmNHPXrQnsxEcgIQ=
+
+Name: assets/sound/1/music/citysong_aquarion.mp3
+SHA1-Digest: xl1ojM0u5pUd1EnbnMRc5Z7dHgk=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-bn-rBD/common_strings.xml
+SHA1-Digest: IR++7pxvckwBvDtH9YEYFm+1aok=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/auth_strings.xml
+SHA1-Digest: iB908/EzRDnl11rnSXvtmCBtBF8=
+
+Name: assets/sound/1/city_level_plop.mp3
+SHA1-Digest: U3rwjEmLIcp8UGF77I7HBlVqytY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/common_strings.xml
+SHA1-Digest: 6IlI6Cm6VREFiwEwPnNGLTE7Wig=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: z6F5gblmDy7HESttJzAKy+t6vIo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/sound/1/cloud_4.mp3
+SHA1-Digest: zMGjCCH7GLJCzItQ7m7UyyCn4lo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: CABOObEDwR6EqyNUYwscv+/TtO0=
+
+Name: assets/sound/1/nature/nature_2.mp3
+SHA1-Digest: YcSmoljpXfOU/j7mG/TdEPAc56w=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: PzxYDH8f/Kksm8fe4/b9iSsqgAc=
+
+Name: res/layout/activity_static_page.xml
+SHA1-Digest: 8tAeP0VIzI/63qOs4OMzOohKBts=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: assets/sound/1/club.mp3
+SHA1-Digest: J0tGwfei320d28BVKbZ7BjzyUJM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: s7kit6Mw/xl6y7qbMeObeY389VY=
+
+Name: assets/sound/1/move_water.mp3
+SHA1-Digest: u7Gw1GtN32qGTi8Nw2VO+rbpjco=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: YzuA22pa+P7MTyETSFl5taaFCNU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/sound/1/discover.mp3
+SHA1-Digest: wyF9FxIz8oa1zO+Wk2aQ2nms6e4=
+
+Name: assets/sound/1/count.mp3
+SHA1-Digest: N19w2RBocALLJU25290g8519hOA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_disabled_focus_light.9.png
+SHA1-Digest: F4zu7VALWxsTNPCALmKdFkT0Pk8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: Aqn6R0KCTp5CAU6BsEh+cCulG+s=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: sAMiXTim7oJ3QAdWePpxgbPaIkY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-tvdpi/common_full_open_on_phone.png
+SHA1-Digest: 6fM++uMPxfqD016RY8ex5IRs6UI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-lt/common_strings.xml
+SHA1-Digest: 9xq/xaU/M71M2+JyCSvTfZ0UEgk=
+
+Name: assets/sound/1/nature/nature_1.mp3
+SHA1-Digest: zwufVvgFDb/wdY79Nrtth4n01tA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ru/common_strings.xml
+SHA1-Digest: BBZIzplzZUJn1Hkcup1g2hH9SjI=
+
+Name: assets/sound/1/music/citysong_bardur.mp3
+SHA1-Digest: rFZeNN8MvyYijobRqxK7dDpgBr0=
+
+Name: assets/sound/1/cloud_2.mp3
+SHA1-Digest: PQ7FiK33gKJmzEPr6L2aFrBtEcs=
+
+Name: assets/sound/1/nature/nature_8.mp3
+SHA1-Digest: GQ0w5Kk07wDwvePelWd+yyNFGcg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/admob_strings.xml
+SHA1-Digest: 2xLLCoI0JxesRXI3Z+5ptVaIv4A=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: assets/sound/1/enemy_action.mp3
+SHA1-Digest: bS79nJo6ci3hMCHV3hQ50LZ0aeA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Hxk4R1lGFA2B9Mn31VndlMwEh/M=
+
+Name: assets/sound/1/arrow.mp3
+SHA1-Digest: hlqL+BWfYHHxGCUbsWmRMXoP0bA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 7kIVWcVNNoS1wjjvnki/UtlLwSQ=
+
+Name: res/raw/startga.html
+SHA1-Digest: C9K086/ZOxGN7QeNDBhRVKerLN4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: U4uC86+nnjVeQCRpvgqG4n3URA0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sv/common_strings.xml
+SHA1-Digest: doCRcRPq8N33hTnHa/vo0cooWzE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-et-rEE/common_strings.xml
+SHA1-Digest: NjSpN7MAdNCMk/2J95YCEnz/wiY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ml-rIN/common_strings.xml
+SHA1-Digest: +vV8kX5HpMpsJmb6bzVszIQiC84=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sl/common_strings.xml
+SHA1-Digest: +jH8W5Bb8aLAWQKovh4AjfBVXJU=
+
+Name: assets/sound/1/capture_city.mp3
+SHA1-Digest: HDUSF3FDjcLN3SzZ4Pu4U38DV8I=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: kJ83rEj5Z4qht/K+KMMjkWGpQaY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-az-rAZ/common_strings.xml
+SHA1-Digest: 1qBYpOMuwarpXMpNlG9BzPGCRxA=
+
+Name: assets/sound/1/music/citysong_xin-xi.mp3
+SHA1-Digest: vkI7C/E/i8ubCtt6okzgaLSmyfA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble/common_signin_btn_icon_dark.xml
+SHA1-Digest: D5O/4b6Y4bPMGOpGWR5J6/FPXOE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+SHA1-Digest: prLXY8z9y762r/Fcq1Xn6IhHlF4=
+
+Name: assets/sound/1/music/citysong_vengir.mp3
+SHA1-Digest: AVBpK6zkave4VCOZVMQEzE5AeDI=
+
+Name: assets/sound/1/nature/nature_10.mp3
+SHA1-Digest: tVrAPhDg1bJBbDMJ2Jxdqq4Ez2w=
+
+Name: assets/sound/1/plop.mp3
+SHA1-Digest: pEAyKaHiZSstORRU9NUN/A/5uaI=
+
+Name: assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/M
+ ETA-INF/ANE/Android-ARM/library.swf
+SHA1-Digest: A/dSSz9eHamJqv1g339hhFI/+HA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-af/common_strings.xml
+SHA1-Digest: L1JoEDmXaJBI/aZLyj1DBRkTzW0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble/common_signin_btn_icon_light.xml
+SHA1-Digest: TsEwJvLeFwZYx8A1QXQtLzz0eug=
+
+Name: assets/sound/1/music/citysong_imperius.mp3
+SHA1-Digest: tzYEPAbVgH9fddECV5/vu1Ye6hM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/color
+ /common_signin_btn_text_dark.xml
+SHA1-Digest: N0AdlHcGSxZuo0P8AEre8uknwYw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: gvBgxbCH6w02zsCkLtwvEhNeXyo=
+
+Name: assets/sound/1/nature/nature_9.mp3
+SHA1-Digest: SsQTE2scT1CxOLM0v3u8yul4N+8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/library.swf
+SHA1-Digest: JDs7UudF7ldHyrg1MnchVd4RvQo=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: URNjMI7SPDwvwA40xc+2E8OBz6c=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: f/X+/gd8TzfsFft3rAO3F3OSzrE=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: assets/sound/1/explore.mp3
+SHA1-Digest: 205eJ27c+R3HlgPCyN/BV21nnvw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ar/common_strings.xml
+SHA1-Digest: yEGtkH2Q+IDLXzLFgKEgGEKKXhU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/library.swf
+SHA1-Digest: JDs7UudF7ldHyrg1MnchVd4RvQo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-de/common_strings.xml
+SHA1-Digest: j7q246e05SBZ469qi2aqZ3opQ50=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: B6C6q1vqfOECezthoq+gyeWyVHE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble/common_signin_btn_text_light.xml
+SHA1-Digest: Li+aAUoVtqAmeSCsRqElRj1OKrw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_full_open_on_phone.png
+SHA1-Digest: 6fM++uMPxfqD016RY8ex5IRs6UI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: sK+NLIAMwBw5M2FoohD7/yOjAgk=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: R9W26IsnEjC7nDIHV5lzOxOr0IE=
+
+Name: assets/Polytopia.swf
+SHA1-Digest: IGcSefozbOr6iP7A6RTLbq8Rmfo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_full_open_on_phone.png
+SHA1-Digest: MtsbQ2fhMdRrT94IPoNLGs7FH5c=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: REkt6n6+rBXO18tbvU0g8Vc0vzc=
+
+Name: assets/sound/1/magic.mp3
+SHA1-Digest: uMxM8eoYgHcx8Lv+drHD97zfOjQ=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: Yl0mv0R5QOsDYKwm6H2oRTlk0/I=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-da/common_strings.xml
+SHA1-Digest: KdP8Y1DYEFaBqGLT4bn2nXPttmY=
+
+Name: assets/adobeair.vch
+SHA1-Digest: 3YPRMPxAmV8O0dCH3f3pDx7hZVc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ca/common_strings.xml
+SHA1-Digest: nNvXtBP3BfI2VrhSGgn+b5ElXFo=
+
+Name: assets/sound/1/nature/nature_0.mp3
+SHA1-Digest: atcFthhtJSrwNzUUNLRjrzvPWYw=
+
+Name: assets/games_controller_white.png
+SHA1-Digest: 7+4Flc6vimzYgKovjn0/XgOZVy4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/sound/1/spawn.mp3
+SHA1-Digest: FD3ApuUW5PHI6NTRhL3+0cPulzo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png
+SHA1-Digest: mQlJTf6cOU+h02lI3fj3GAv1ShE=
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA1-Digest: FvhkervCQZVpFlERTVdtVjaIPok=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: FC3WLCeHpO6hT1Hpk29q/69YNCY=
+
+Name: assets/sound/1/music/citysong_luxidoor.mp3
+SHA1-Digest: 32mZ2yCwiPKs4/R0yi6AMcEwAeM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-zu/common_strings.xml
+SHA1-Digest: zWiLIlyeZMMJtvZWRYTGFm07kFo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: Oj3xldM7O3DcsI1pzScRSi0CBA4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png
+SHA1-Digest: 2X7TH0WYNVS1b7DsNGaWD8EZww4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/sound/1/cloud_1.mp3
+SHA1-Digest: H8OB6aUQTB0eSp5oxig3464imuM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png
+SHA1-Digest: mQlJTf6cOU+h02lI3fj3GAv1ShE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: assets/sound/1/nature/nature_11.mp3
+SHA1-Digest: NolBfBfLfO21f0bIkIuMQ9yurSg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/platform.xml
+SHA1-Digest: cfhEUDvcYrOu5fCgR7qzbDkxpwc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-el/common_strings.xml
+SHA1-Digest: vIMe6Z0FXjnMFHLkQPXVppK2mpM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-hy-rAM/common_strings.xml
+SHA1-Digest: KwINXdxiOGzkpw4oEXCR4kojjHY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameserv
+ ices/catalog.xml
+SHA1-Digest: 3hr7vmsB7601NNPClTKmwUsLRwA=
+
+Name: res/layout/main.xml
+SHA1-Digest: NwY4tGCmpgEbEC+PP6RKLl2byxc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: opuI2j4dK3ep5jNT3z3C/vtm1HA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: kJ83rEj5Z4qht/K+KMMjkWGpQaY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-fi/common_strings.xml
+SHA1-Digest: EMjPHl1d0NKWbutzKpiiDrAO8QQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: assets/sound/1/music/citysong_quetzali.mp3
+SHA1-Digest: aUeTnMTXQ6U8WQ7Gu3Li3QKXeq8=
+
+Name: assets/textures/dirt_road.png
+SHA1-Digest: x5qvx4D1/JLkgNNFUPPrB2Ed3Bk=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-si-rLK/common_strings.xml
+SHA1-Digest: 7VF+l1p41Hm4QcuFoHJwUUxyOtw=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ne-rNP/common_strings.xml
+SHA1-Digest: SMXMpzAMoRJyt7YM+t5XGtDdtHA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LtQDq68YeJEePrsq3h4+5am2MT4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-fr/common_strings.xml
+SHA1-Digest: /tPhtk4T39LrU1+F/e6ERS6YWrU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: b8GTlPqmoWnckbD4v2orrH/s80g=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: +e3Wy86TxIeal3Jyv1zP3v9QwFs=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: WFA8vNO+X+qqDeuwFhqJNO2V2qM=
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA1-Digest: vHfWDNiaTxtPbMx/FbNS0GbXu/Q=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: cehAlCDjqkT/zi1mlFnGCKwg6Uw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: assets/sound/1/suggestion_02.mp3
+SHA1-Digest: ampZDPpAFAWf9ZII5gndW6GxeO4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: Jjbxsp04XaO78iWPFnlsLrGymK8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: H38p0zL8i5ICWCSZ/gN4/WSISXo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/base_strings.xml
+SHA1-Digest: /o0U3/L4cLpbkz2sgzKqq97u9yw=
+
+Name: assets/sound/1/music/citysong_kickoo.mp3
+SHA1-Digest: gj5qas/vw/bXDbc42NhsuDvD1+E=
+
+Name: assets/data.save
+SHA1-Digest: FcbjhjO+Y/upHGfyut6AVh2sEr4=
+
+Name: assets/sound/1/move_grass.mp3
+SHA1-Digest: qq9pJ5zCewlptsrPV0dW3NH8GvE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+SHA1-Digest: L4Y2m77O7J50GwZMnqYHLQhBvMg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-hr/common_strings.xml
+SHA1-Digest: C0kzQQHvIJRfrWoO1xq19ATWqac=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-pa-rIN/common_strings.xml
+SHA1-Digest: JXCPeYpTQX2O41zCEiAgrsdCv0g=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-en-rGB/common_strings.xml
+SHA1-Digest: yFDtAUR+mDBPg78LDRGimXTYqDU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: VfIRb915lWQezpptSSDrkrTUSfc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: ibNAO/bkKHNnZZbc5XqUDqkhd3E=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: 3rRyVANH4A5iKklkb5M4KBA9+G4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_disabled_focus_light.9.png
+SHA1-Digest: 2X7TH0WYNVS1b7DsNGaWD8EZww4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-tl/common_strings.xml
+SHA1-Digest: wwSXnPCp4CW6WB/Yp2T86i0NK6o=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ko/common_strings.xml
+SHA1-Digest: bcw9RCGHG0wHBn3iMpF6Q3r2Q18=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_disabled_focus_light.9.png
+SHA1-Digest: prLXY8z9y762r/Fcq1Xn6IhHlF4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: nfqWtA3RM5fAe7OpAFZTMIMHWnM=
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA1-Digest: /pJ1zYDuHzdBqkr3EaXrO6OfzA4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-bg/common_strings.xml
+SHA1-Digest: sZgbZ/uYXoOkvlVR2/hyTEkxi2Y=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-iw/common_strings.xml
+SHA1-Digest: pZQyb4dwQALvtpdQdQ6eSvmHSw8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 0RlGQa2Lvx6eBH4pCJKbyz833a4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: 9MOqUE6m6bqlLb54/RUCOvCMUh0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-uz-rUZ/common_strings.xml
+SHA1-Digest: lFDYnjZxGR4Cn9HkqybCNcAyFIo=
+
+Name: assets/META-INF/AIR/extensions/com.pozirk.AndroidInAppPurchase/l
+ ibrary.swf
+SHA1-Digest: A/dSSz9eHamJqv1g339hhFI/+HA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-uk/common_strings.xml
+SHA1-Digest: RTfE7Hez4HlVXgGdk3tegqeQhQY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/catalog.xml
+SHA1-Digest: 6kHHfSE/NDKBmrTmR4aDKB5p5Wk=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-en-rIN/common_strings.xml
+SHA1-Digest: yFDtAUR+mDBPg78LDRGimXTYqDU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: yXeoWLoX70Aqp7WLVIkXvjN39Tk=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: kfZDaC0nOcvFBgTefzwy1TVrgy8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: Z2a+W1spG4iRze5SC2diYFsYYM0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_ic_googleplayservices.png
+SHA1-Digest: kMJ1kj9R9bbzL51X80gb2Uj0hJs=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: wD1klkhnxEuBAlNVWdBePVBmmyI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: lQMw9U9+CteGsYvcvihg7ytfMjE=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-pt/common_strings.xml
+SHA1-Digest: zGgfWhTCucrsbi0sOLSy+0cBSb0=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: VhdvfmFyBAz/Vcv/ro4cDa/KRBs=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s/common_colors.xml
+SHA1-Digest: ERaNcJENCWnXs0ui+GFI7y76Acg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: RH6cZgWbhww+++e8HRZg6juR2vk=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: IJu7hHJWEDVoNIsB4ur9GOs3xQY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/sound/1/nature/nature_7.mp3
+SHA1-Digest: tZTQlODHGxE0u90cvEoApoaEb9Y=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sw/common_strings.xml
+SHA1-Digest: bQKTJwkmYbmnIVrusORlc8EOl3E=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-sk/common_strings.xml
+SHA1-Digest: z64FCNB6E4oB7sCyl4avHtK6Uc4=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: LGIrzlSe5yhYRsZhlwPULOPGCTE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: assets/sound/1/enemy_capture.mp3
+SHA1-Digest: khY8Ah1tE6xtJbF3UBfiWHplA/I=
+
+Name: assets/sound/1/rock.mp3
+SHA1-Digest: +ut8VB/PbGypZoWb/lV8saCg2hI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-my-rMM/common_strings.xml
+SHA1-Digest: rIgkBC8tg0H9WeU7Uveq1jLE5gg=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-nb/common_strings.xml
+SHA1-Digest: 7+w7OrBOC2BVGbXEKZZ9gO00CCA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-lv/common_strings.xml
+SHA1-Digest: j15frAyRqCZj6Y0EsD17asDNNiA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/sound/1/examine.mp3
+SHA1-Digest: Gi2qHqELoh2bPf5agoBKvl6UToM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-kn-rIN/common_strings.xml
+SHA1-Digest: e7DELDNKLT9vRCTg6yJMlL1qPOg=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: lA5x0AVs/scv9cFuTFOJpyLVdR8=
+
+Name: assets/sound/1/achievement.mp3
+SHA1-Digest: wZ3jbjAyv+6l199LlQ8ygGT2vvE=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+SHA1-Digest: peJ06bkaZCp3fYmEeCvdStSOjA0=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: 2I/SMhgbAzywYZzAGSpAv/IMXSc=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-zh-rHK/common_strings.xml
+SHA1-Digest: KH6X7fVnuCiyAllAZo1p9WBWZbI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: s7kit6Mw/xl6y7qbMeObeY389VY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-nl/common_strings.xml
+SHA1-Digest: hz/eTwKWSYq6AdAR/rvCycpRDE0=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.playgameserv
+ ices/META-INF/ANE/Android-ARM/library.swf
+SHA1-Digest: /g2snVrvBIbtR0kfYh8kuh83cXI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-mk-rMK/common_strings.xml
+SHA1-Digest: hD0unQ16Bc0YU4pF9wLCgNA4Kls=
+
+Name: assets/sound/1/paystar_1.mp3
+SHA1-Digest: uyZHDvru6SnxFmZfriwWfUpIDlY=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: XKKW0OOV+yiG51KE9IfPIj8rRR4=
+
+Name: assets/sound/1/nature/nature_6.mp3
+SHA1-Digest: fGpfDJ/uMcwZX0Dxj+OzjdAwPto=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-ka-rGE/common_strings.xml
+SHA1-Digest: Zl+JAunNwS9x00vEzn11lz6iIx8=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-lo-rLA/common_strings.xml
+SHA1-Digest: wlfPBnCpe5aRmwQV8Lf3ZO+P3sA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: zFWLAcGHAVoXD6GR2dsLN4tOOPA=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-hdpi/common_signin_btn_icon_disabled_focus_light.9.png
+SHA1-Digest: L4Y2m77O7J50GwZMnqYHLQhBvMg=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: eCFwTk+zmvIeM+w4WQEnsknkfNI=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/value
+ s-pl/common_strings.xml
+SHA1-Digest: e57/0OCpfCWZw+ubW93jcQ7hD/Y=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/sound/1/spawn_enemy.mp3
+SHA1-Digest: Y+hGPGyup8zqzAsp3ZapcBudB2w=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: classes.dex
+SHA1-Digest: AnEPJWpSLWfTftAW5zejAT9hsjU=
+
+Name: assets/META-INF/AIR/extensions/com.grumpycarrot.ane.googleplayse
+ rviceslibrary/META-INF/ANE/Android-ARM/google-play-services-res/drawa
+ ble-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Ijo+yh9mg0SZ6VUsiYAcde6bUwY=
+

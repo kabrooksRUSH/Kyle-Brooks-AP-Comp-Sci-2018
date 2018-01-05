@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/25.0">
+  <!-- A universally unique application identifier. Must be unique across all AIR applications.
+	Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
+  <id>com.midjiwan.polytopia</id>
+  <!-- Used as the filename for the application. Required. -->
+  <filename>Polytopia</filename>
+  <!-- The name that is displayed in the AIR application installer.
+	May have multiple values for each language. See samples or xsd schema file. Optional. -->
+  <name>Polytopia</name>
+  <!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade.
+	Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
+	An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5 . -->
+  <versionNumber>1.9.6</versionNumber>
+  <!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents the version of the application, as it should be shown to users. Optional. -->
+  <versionLabel>New World</versionLabel>
+  <!-- Copyright information. Optional -->
+  <copyright>Midjiwan AB 2016</copyright>
+  <supportedLanguages>en</supportedLanguages>
+  <initialWindow>
+    <!-- The main SWF or HTML file of the application. Required. -->
+    <!-- Note: In Flash Builder, the SWF reference is set automatically. -->
+    <content>Polytopia.swf</content>
+    <renderMode>gpu</renderMode>
+    <aspectRatio>any</aspectRatio>
+    <autoOrients>true</autoOrients>
+    <fullScreen>true</fullScreen>
+    <visible>true</visible>
+  </initialWindow>
+  <!-- The icon the system uses for the application. For at least one resolution,
+	specify the path to a PNG file included in the AIR package. Optional. -->
+  <icon>
+    <image512x512>icon/Icon-512.png</image512x512>
+  </icon>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto">
+				<uses-sdk android:targetSdkVersion="25" android:minSdkVersion="9"/>
+				<uses-permission android:name="com.android.vending.BILLING" />
+				<uses-permission android:name="android.permission.INTERNET"/>
+				
+					
+				<application android:resizeableActivity="false" android:enabled="true" android:debuggable="false">
+					<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 528017476669" />
+					<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+
+					<activity android:excludeFromRecents="false" android:resizeableActivity="false">
+						<intent-filter>
+							<action android:name="android.intent.action.MAIN"/>
+							<category android:name="android.intent.category.LAUNCHER"/>
+						</intent-filter>
+					</activity>
+					
+					<activity 
+						android:name="com.pozirk.payment.BillingActivity" 
+						android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" 
+						android:background="#30000000" />
+						
+					<activity
+                       android:name=".Android_mobile_infoActivity"
+                       android:label="@string/app_name"
+                       android:screenOrientation="sensor">
+                   </activity>
+				</application>
+           	</manifest>]]></manifestAdditions>
+  </android>
+  <extensions>
+    <extensionID>com.grumpycarrot.ane.googleplayserviceslibrary</extensionID>
+    <extensionID>com.grumpycarrot.ane.playgameservices</extensionID>
+    <extensionID>com.pozirk.AndroidInAppPurchase</extensionID>
+  </extensions>
+</application>
+
+

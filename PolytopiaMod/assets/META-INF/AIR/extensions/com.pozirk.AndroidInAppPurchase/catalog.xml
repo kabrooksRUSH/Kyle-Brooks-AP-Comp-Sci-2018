@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/pozirk/payment/android/InAppPurchase" mod="1378539841132" signatureChecksum="1559088055" >
+        <def id="com.pozirk.payment.android:InAppPurchase" /> 
+        <dep id="com.pozirk.payment.android:InAppPurchaseDetails" type="e" /> 
+        <dep id="com.pozirk.payment.android:InAppSkuDetails" type="e" /> 
+        <dep id="com.pozirk.payment.android:InAppPurchaseEvent" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="com.pozirk.payment.android:InAppPurchaseDetails" type="s" /> 
+        <dep id="com.pozirk.payment.android:InAppSkuDetails" type="s" /> 
+        <dep id="com.pozirk.payment.android:InAppPurchaseEvent" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/pozirk/payment/android/InAppSkuDetails" mod="1370445869109" signatureChecksum="686710959" >
+        <def id="com.pozirk.payment.android:InAppSkuDetails" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/pozirk/payment/android/InAppPurchaseEvent" mod="1361206122407" signatureChecksum="3012540986" >
+        <def id="com.pozirk.payment.android:InAppPurchaseEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="_30607c24b74ebce9a2b7501846b413139875364558c24bb3922f193a5a418994_flash_display_Sprite" mod="1378539850301" signatureChecksum="1155561271" >
+        <def id="_30607c24b74ebce9a2b7501846b413139875364558c24bb3922f193a5a418994_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/pozirk/payment/android/InAppPurchaseDetails" mod="1368020583691" signatureChecksum="1129353820" >
+        <def id="com.pozirk.payment.android:InAppPurchaseDetails" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="52a5b86960b76f2703f714e572b8672eb490623a61051ef98dd471e22ee97014"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
+

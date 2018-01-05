@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1009006" android:versionName="New World" android:installLocation="auto" package="air.com.midjiwan.polytopia" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <application android:label="@string/app_name" android:icon="@drawable/icon" android:enabled="true" android:debuggable="false" android:hardwareAccelerated="false" android:resizeableActivity="false">
+        <activity android:theme="@style/Theme.NoShadow" android:label="@string/app_name" android:name=".AppEntry" android:excludeFromRecents="false" android:launchMode="singleTask" android:screenOrientation="user" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:windowSoftInputMode="stateHidden|stateAlwaysHidden|adjustResize|adjustNothing" android:resizeableActivity="false">
+            <meta-data android:name="embeddedFonts" android:value="false" />
+            <meta-data android:name="namespaceVersion" android:value="25.0" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="aspectRatio" android:value="any" />
+            <meta-data android:name="autoOrients" android:value="true" />
+            <meta-data android:name="fullScreen" android:value="true" />
+            <meta-data android:name="uniqueappversionid" android:value="2b671706-9db2-4e1d-bc2c-ca00a1dc6f3f" ></meta-data>
+            <meta-data android:name="initialcontent" android:value="Polytopia.swf" />
+            <meta-data android:name="containsVideo" android:value="false" />
+            <meta-data android:name="webContentsDebuggingEnabled" android:value="false" />
+            <meta-data android:name="disableMediaCodec" android:value="false" />
+        </activity>
+        <provider android:name="com.adobe.air.CameraUIProvider" android:exported="false" android:authorities="air.com.midjiwan.polytopia.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths" />
+        </provider>
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="528017476669" />
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+        <activity android:theme="@*android:style/Theme.Translucent.NoTitleBar.Fullscreen" android:name="com.pozirk.payment.BillingActivity" android:background="#30000000" />
+        <activity android:label="@string/app_name" android:name=".Android_mobile_infoActivity" android:screenOrientation="sensor" />
+    </application>
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="25" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

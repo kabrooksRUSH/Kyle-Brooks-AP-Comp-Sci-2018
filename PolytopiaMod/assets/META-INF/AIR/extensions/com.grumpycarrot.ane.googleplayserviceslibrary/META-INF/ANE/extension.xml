@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/19.0">
+  <id>com.grumpycarrot.ane.googleplayserviceslibrary</id>
+  <versionNumber>1.0</versionNumber>
+  <platforms>
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>googleplayserviceslibane.jar</nativeLibrary>
+        <initializer>com.grumpycarrot.googleplayserviceslib.Extension</initializer>
+		<finalizer>com.grumpycarrot.googleplayserviceslib.Extension</finalizer> 
+      </applicationDeployment>
+    </platform>
+    <platform name="Android-x86">
+      <applicationDeployment>
+        <nativeLibrary>googleplayserviceslibane.jar</nativeLibrary>
+        <initializer>com.grumpycarrot.googleplayserviceslib.Extension</initializer>
+		<finalizer>com.grumpycarrot.googleplayserviceslib.Extension</finalizer> 
+      </applicationDeployment>
+    </platform>	
+	<platform name="default">
+		<applicationDeployment />
+	</platform>	
+  </platforms>
+</extension>
+
